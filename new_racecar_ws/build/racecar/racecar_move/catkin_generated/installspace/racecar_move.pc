@@ -1,0 +1,8 @@
+prefix=/home/iterationjia/new_racecar_ws/install
+
+Name: racecar_move
+Description: Description of racecar_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

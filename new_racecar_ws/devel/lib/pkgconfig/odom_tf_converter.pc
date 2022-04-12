@@ -1,0 +1,8 @@
+prefix=/home/iterationjia/new_racecar_ws/devel
+
+Name: odom_tf_converter
+Description: Description of odom_tf_converter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp tf

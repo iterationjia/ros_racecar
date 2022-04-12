@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <!--运行rviz节点，启动rviz-->
+    <node name="rviz" pkg="rviz" type="rviz"
+          args="-d $(find racecar_control)/rviz/racecar_rviz.rviz" required="true"/>
+</launch>
